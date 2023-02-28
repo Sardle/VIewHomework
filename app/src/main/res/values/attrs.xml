@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="CounterView">
+        <attr name="counter_mode" format="boolean"/>
+        <attr name="start_value" format="integer"/>
+    </declare-styleable>
+</resources>
